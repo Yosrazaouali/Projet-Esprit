@@ -1,0 +1,6 @@
+a 1 k Femelle Restau  
+a 1 k Femelle Restau  
+a 1 k Femelle Restau  
+a 2 k Femelle Restau 
+a 2 k Femelle Restau  
+ j j j Male Resto_et_Foyer 
